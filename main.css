@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'StratosSkyeng',sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 15px;
+}
+
+div {
+    width: 700px;
+    margin: 0 auto;
+}
+
+img{
+    width: 800px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+a{
+    color: aquamarine;
+    margin: 50px;
+    display: inline-block;
+}
